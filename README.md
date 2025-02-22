@@ -14,4 +14,5 @@ This does not have any possible ways of causing damage to a machine, or a OS.
 Soon, don't worry ;)
 
 # Requirements
-NET 9.0
+1. NET 9.0
+2. [Compiler](https://github.com/iroxOfficialMusic/xx00/blob/main/xx00.deco.zip)
