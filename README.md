@@ -12,3 +12,6 @@ This does not have any possible ways of causing damage to a machine, or a OS.
 
 # Tutorial
 Soon, don't worry ;)
+
+# Requirements
+NET 9.0
